@@ -4,6 +4,8 @@ Measure and normalize a whole folder of audio files to a loudness standard — S
 
 Built on FFmpeg's two-pass EBU R128 `loudnorm` filter. Pure Python standard library, no paid dependencies.
 
+![Batch run: a quiet voice recording and a clipping music track both normalized to -14 LUFS](docs/cover.png)
+
 ## Features
 
 - **Loudness analysis** — integrated loudness (LUFS), true peak (dBTP), loudness range (LRA), RMS, sample peak and noise floor
