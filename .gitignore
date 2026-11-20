@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+normalized/
+*.wav
+*.mp3
+*.flac
+installer/config.json
